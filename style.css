@@ -1,0 +1,44 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: lightblue;
+}
+.header_div{
+    background: grey;
+    color: red;
+}
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 12px;
+}
+.main_div button{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background: blue;
+}
+.copy_right_footer{
+    color: blue;
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    background: grey;
+    text-shadow: 5px 5px 5px grey;
+}
+span {
+    display: inline-block;
+    margin-right: 30px;
+}
+#cats_detect{
+    color: blue;
+}
+#dogs_detect{
+    color: brown;
+}
